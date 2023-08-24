@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "todo": "Take the new app Tommrow on ",
+      "isCompleted": "false",
+      "date": "6/8/2023",
+      "id": 2
+    },
+    {
+      "todo": "Make the egg rice and chicken",
+      "isCompleted": "false",
+      "date": "6/8/2023",
+      "id": 3
+    },
+    {
+      "todo": "look for an exam center",
+      "isCompleted": "false",
+      "date": "6/8/2023",
+      "id": 4
+    }
+  ]
+}
